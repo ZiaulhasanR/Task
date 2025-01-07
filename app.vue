@@ -1,7 +1,7 @@
 <template>
   <section class="bg-white xl:h-[1200px] md:h-fit sm:h-fit lg:h-fit">
         <div > 
-            <img class="xl:h-24 xl:w-44 md:h-[96px] md:w-[176px] sm:h-[86px] sm:w-[136px] flex justify-center items-center mx-automx-auto mx-auto" src="E:\Html CSS\BD-Funnel-Builder-task_tailwind_css\assets\css\logo.png"><br>
+            <img class="xl:h-24 xl:w-44 md:h-[96px] md:w-[176px] sm:h-[86px] sm:mx-auto sm:w-[136px] flex justify-center items-center mx-auto" src="E:\Html CSS\BD-Funnel-Builder-task_tailwind_css\assets\css\logo.png"><br>
         </div>
         <div class="text-[#1b4b36] text-center  xl:font-[700] md:text-[60px] text-[36px] md:font-[500]">
             <p>স্বাস্থ্য, ফিটনেস এবং প্রযুক্তি সবকিছু একসাথে!
@@ -9,7 +9,7 @@
         </div>
         <div class="">
             
-            <p class="h-[50px] text-3xl mx-auto flex justify-center bg-[#ebff3d] font-[600] w-[556px] text-center">আপনার জীবনকে আরও স্মার্ট করুন।</p><br>
+            <p class="h-[50px] text-3xl sm:mx-auto flex justify-center bg-[#ebff3d] sm:w-[60%] sm:font-[400] font-[600] w-[556px] text-center">আপনার জীবনকে আরও স্মার্ট করুন।</p><br>
             <div class="max-w-[85%] w-[55%] aspect-[16/9] items-center flex flex-col justify-center relative mx-auto">
                 <iframe class= "absolute w-full h-full items-center" src="https://www.youtube.com/embed/lecHBYPpjZM?si=WIWqMhUwmJHamjZo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
             </div>
@@ -110,6 +110,7 @@
                 অর্ডার করতে ক্লিক করুন 
             <img class="h-[35px] w-[45px] ml-2" src="E:\Html CSS\BD-Funnel-Builder-task_tailwind_css\assets\css\green-icon.png">
             </p>
+            <br>
     </div>
 
     
